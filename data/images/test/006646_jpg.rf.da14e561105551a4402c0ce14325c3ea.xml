@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>006646_jpg.rf.da14e561105551a4402c0ce14325c3ea.jpg</filename>
+	<path>006646_jpg.rf.da14e561105551a4402c0ce14325c3ea.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>141</xmin>
+			<xmax>224</xmax>
+			<ymin>277</ymin>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
